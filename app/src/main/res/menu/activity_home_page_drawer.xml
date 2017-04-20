@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/read_meter"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/read_meter" />
+        <item
+            android:id="@+id/submit"
+            android:icon="@drawable/ic_menu_send"
+            android:title="@string/submit" />
+        <item
+            android:id="@+id/list"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/captured_list" />
+
+    </group>
+
+
+</menu>

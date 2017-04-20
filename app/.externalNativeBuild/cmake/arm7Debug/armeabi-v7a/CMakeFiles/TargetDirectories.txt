@@ -1,0 +1,4 @@
+/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/.externalNativeBuild/cmake/arm7Debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/.externalNativeBuild/cmake/arm7Debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/.externalNativeBuild/cmake/arm7Debug/armeabi-v7a/CMakeFiles/mixed_sample.dir
+/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/.externalNativeBuild/cmake/arm7Debug/armeabi-v7a/CMakeFiles/native-lib.dir

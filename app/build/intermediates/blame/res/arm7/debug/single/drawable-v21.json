@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-v21/ic_menu_share.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/drawable-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-v21/card_selector.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-v21/card_selector.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-v21/ic_menu_gallery.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-v21/card_menu_button_expand_material.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-v21/card_menu_button_expand_material.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-v21/card_kitkat_selector.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-v21/card_kitkat_selector.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-v21/card_menu_button_expand.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-v21/card_menu_button_expand.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-v21/ic_menu_slideshow.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-v21/ic_menu_manage.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/drawable-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-v21/card_foreground_kitkat_selector.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-v21/card_foreground_kitkat_selector.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-v21/card_menu_button_overflow_material.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-v21/card_menu_button_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-v21/ic_menu_camera.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/drawable-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-v21/ic_menu_send.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/drawable-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-v21/card_foreground_selector.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-v21/card_foreground_selector.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-v21/card_menu_button_expand_material_animator.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-v21/card_menu_button_expand_material_animator.xml"
+    }
+]

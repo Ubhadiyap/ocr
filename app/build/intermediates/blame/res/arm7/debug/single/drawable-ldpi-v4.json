@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-ldpi-v4/ic_skip_white_24px.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/4.0.0/res/drawable-ldpi-v4/ic_skip_white_24px.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-ldpi-v4/common_ic_googleplayservices.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
+    }
+]

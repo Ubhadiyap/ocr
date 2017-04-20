@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fitsSystemWindows="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="24dp"
+        android:paddingRight="24dp"
+        android:paddingTop="56dp">
+
+        <!-- <ImageView android:src="@drawable/paybill"
+             android:layout_width="wrap_content"
+             android:layout_height="72dp"
+             android:layout_marginBottom="24dp"
+             android:layout_gravity="center_horizontal"
+             />-->
+
+
+        <!-- Longitude Latitude Label -->
+        <TextView
+            android:id="@+id/long_lat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            />
+
+        <!-- Date Label -->
+        <TextView
+            android:id="@+id/date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"/>
+
+
+        <!-- Serial Label -->
+        <TextView
+            android:id="@+id/serial"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"/>
+
+
+        <!-- Index Label -->
+        <TextView
+            android:id="@+id/index"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"/>
+
+
+      <!--  &lt;!&ndash;  Meter Serial Number Label &ndash;&gt;
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="8dp">
+
+            <EditText
+                android:id="@+id/input_serial"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Meter Serial Number"
+                android:inputType="text" />
+        </android.support.design.widget.TextInputLayout>
+
+        &lt;!&ndash;  Meter Index &ndash;&gt;
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="8dp">
+
+            <EditText
+                android:id="@+id/input_index"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Meter Index"
+                android:inputType="textPassword" />
+        </android.support.design.widget.TextInputLayout>-->
+
+
+        <!--  Island -->
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="8dp">
+
+            <EditText
+                android:id="@+id/input_island"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Island Name"
+                android:inputType="text" />
+        </android.support.design.widget.TextInputLayout>
+
+        <!--  Zone -->
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="8dp">
+
+            <EditText
+                android:id="@+id/input_zone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Zone"
+                android:inputType="text" />
+        </android.support.design.widget.TextInputLayout>
+
+
+        <!--  Agency -->
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="8dp">
+
+            <EditText
+                android:id="@+id/input_agency"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Agency Name"
+                android:inputType="text" />
+        </android.support.design.widget.TextInputLayout>
+
+
+        <!--  Agency ID -->
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="8dp">
+
+            <EditText
+                android:id="@+id/input_agencyID"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="agency ID"
+                android:inputType="text" />
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/btn_save"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="24dp"
+            android:layout_marginTop="24dp"
+            android:padding="12dp"
+            android:background="@color/colorAccent"
+            android:text="save"
+            android:textColor="@color/white"/>
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="diagonal"><attr format="integer" name="angle"/><attr format="color" name="diagonalColor"/><attr format="string" name="diagonalGravity"/><attr format="color" name="backgroundColor"/></declare-styleable>
+    <string name="app_name">library</string>
+</resources>

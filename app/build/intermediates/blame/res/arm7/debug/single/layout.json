@@ -1,0 +1,498 @@
+[
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/activity_bluetooth_client.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/activity_bluetooth_client.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/card_overlay_layout.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/card_overlay_layout.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/activity_open_cv.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/activity_open_cv.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/capture.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/capture.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/activity_main.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/intro_layout.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/4.0.0/res/layout/intro_layout.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/native_list_card_layout.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/native_list_card_layout.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/carddetail.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/carddetail.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/inner_content_detail.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/inner_content_detail.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/base_list_expandable_children_layout.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/base_list_expandable_children_layout.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/base_header_layout.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/base_header_layout.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/activity_start_camera.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/activity_start_camera.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/activity_send_data.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/activity_send_data.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/thumbnail_layout.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/thumbnail_layout.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/nav_header_home_page2.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/nav_header_home_page2.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/activity_home_page.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/activity_home_page.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/content_home_page.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/content_home_page.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/native_inner_base_main.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/native_inner_base_main.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/native_base_header_layout.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/native_base_header_layout.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/inner_base_expand.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/inner_base_expand.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/toolbar.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/toolbar.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/app_bar_location.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/app_bar_location.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/native_cardwithlist_layout.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/native_cardwithlist_layout.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/list_card_layout.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/list_card_layout.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/list_card_undo_materialmobile_message.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/list_card_undo_materialmobile_message.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/activity_list.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/activity_list.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/card_thumbnail_overlay_layout.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/card_thumbnail_overlay_layout.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/activity_capturedlist.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/activity_capturedlist.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/notification_template_lines.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/app_bar_input.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/app_bar_input.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/base_thumbnail_layout.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/base_thumbnail_layout.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/location.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/location.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/inner_base_main.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/inner_base_main.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/card_base_layout.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/card_base_layout.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/nav_header_home_page.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/nav_header_home_page.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/cardview_detail.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/cardview_detail.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/native_inner_base_main_cardwithlist.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/native_inner_base_main_cardwithlist.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/default_indicator.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/4.0.0/res/layout/default_indicator.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/app_bar_main.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/content_open_cv.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/content_open_cv.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/native_card_thumbnail_layout.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/native_card_thumbnail_layout.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/fragment_intro2.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/4.0.0/res/layout/fragment_intro2.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/abc_search_view.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/ocr_capture.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/ocr_capture.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/device_list.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.akexorcist/bluetoothspp/1.0.0/res/layout/device_list.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/cardview_layout.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/cardview_layout.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/base_section_layout.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/base_section_layout.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/app_bar_capturedlist.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/app_bar_capturedlist.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/device_name.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.akexorcist/bluetoothspp/1.0.0/res/layout/device_name.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/notification_media_action.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/list_card_thumbnail_layout.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/list_card_thumbnail_layout.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/fragment_intro_content.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/4.0.0/res/layout/fragment_intro_content.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/progress_indicator.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/4.0.0/res/layout/progress_indicator.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/content_bluetooth_client.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/content_bluetooth_client.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/list_card_undo_material_message.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/list_card_undo_material_message.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/fragment_intro.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/4.0.0/res/layout/fragment_intro.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/design_navigation_item.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/content_send_data.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/content_send_data.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/native_inner_base_expand.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/native_inner_base_expand.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/inner_base_header.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/inner_base_header.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/tutorial2_surface_view.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/tutorial2_surface_view.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/image_manipulations_surface_view.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/image_manipulations_surface_view.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/native_inner_base_header.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/native_inner_base_header.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/intro_layout2.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/4.0.0/res/layout/intro_layout2.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/bluetooth_home.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/bluetooth_home.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/native_card_layout.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/native_card_layout.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/base_withlist_progress.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/base_withlist_progress.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/card_undo_layout.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/card_undo_layout.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/native_base_thumbnail_layout.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/native_base_thumbnail_layout.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/list_card_undo_message.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/list_card_undo_message.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/app_bar_home_page.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/app_bar_home_page.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/input_form.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/input_form.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/content_start_camera.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/layout/content_start_camera.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/notification_template_media.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/base_withlist_empty.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/base_withlist_empty.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/base_shadow_layout.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/base_shadow_layout.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/native_list_card_thumbnail_layout.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/native_list_card_thumbnail_layout.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/card_layout.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/card_layout.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/card_thumbnail_layout.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/card_thumbnail_layout.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/inner_base_main_cardwithlist.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/layout/inner_base_main_cardwithlist.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_menu.xml"
+    }
+]

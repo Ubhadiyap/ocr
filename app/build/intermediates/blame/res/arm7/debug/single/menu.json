@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/menu/contextmenu.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/menu/contextmenu.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/menu/activity_home_page_drawer.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/menu/activity_home_page_drawer.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/menu/home_page.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/menu/home_page.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/menu/new_homepage_drawer.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/menu/new_homepage_drawer.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/menu/popupmain.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/menu/popupmain.xml"
+    }
+]

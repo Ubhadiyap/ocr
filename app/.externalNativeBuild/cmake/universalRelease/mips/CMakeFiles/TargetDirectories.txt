@@ -1,0 +1,4 @@
+/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/.externalNativeBuild/cmake/universalRelease/mips/CMakeFiles/edit_cache.dir
+/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/.externalNativeBuild/cmake/universalRelease/mips/CMakeFiles/rebuild_cache.dir
+/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/.externalNativeBuild/cmake/universalRelease/mips/CMakeFiles/mixed_sample.dir
+/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/.externalNativeBuild/cmake/universalRelease/mips/CMakeFiles/native-lib.dir

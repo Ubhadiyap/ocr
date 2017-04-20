@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"/Users/stephineosoro/Library/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/.externalNativeBuild/cmake/debug/armeabi --target clean"
+	],
+	"libraries" : 
+	{
+		"native-lib-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "native-lib",
+			"buildCommand" : "/Users/stephineosoro/Library/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/.externalNativeBuild/cmake/debug/armeabi --target native-lib",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  -target armv5te-none-linux-androideabi -gcc-toolchain /Users/stephineosoro/Library/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/stephineosoro/Library/Android/sdk/ndk-bundle/platforms/android-15/arch-arm -Dnative_lib_EXPORTS  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/jni/nativeclass.c",
+					"workingDirectory" : "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/.externalNativeBuild/cmake/debug/armeabi"
+				}
+			],
+			"output" : "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/cmake/debug/obj/armeabi/libnative-lib.so",
+			"toolchain" : "7265591263901679876"
+		}
+	},
+	"toolchains" : 
+	{
+		"7265591263901679876" : 
+		{
+			"cCompilerExecutable" : "/Users/stephineosoro/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/stephineosoro/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

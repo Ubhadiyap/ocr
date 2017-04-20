@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/markItem"
+        android:title="Add to favorites"/>
+    <item
+        android:id="@+id/etViewFav"
+        android:title="View favorites"/>
+    <item
+        android:id="@+id/comment"
+        android:title="Add Comment"/>
+    <item
+        android:id="@+id/permItem"
+        android:title="Permanently delete"/>
+    <item
+        android:id="@+id/copyItem"
+        android:title="Copy"/>
+    <item
+        android:id="@+id/ShareItem"
+        android:title="Share download link"/>
+
+</menu>

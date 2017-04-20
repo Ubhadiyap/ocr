@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-hdpi/elec.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/drawable-hdpi/elec.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-hdpi/ic_expand_more_black_24dp.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-hdpi/ic_expand_more_black_24dp.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-hdpi/ic_menu_overflow_card_dark_pressed.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-hdpi/ic_menu_overflow_card_dark_pressed.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-hdpi/ic_menu_expand_card_dark_pressed.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-hdpi/ic_menu_expand_card_dark_pressed.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-hdpi/ic_menu_overflow_card_dark_normal.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-hdpi/ic_menu_overflow_card_dark_normal.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-hdpi/seven.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/drawable-hdpi/seven.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-hdpi/ic_more_vert_black_24dp.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-hdpi/ic_more_vert_black_24dp.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-hdpi/three.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/drawable-hdpi/three.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-hdpi/ic_menu_overflow_card_rounded_dark_pressed.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-hdpi/ic_menu_overflow_card_rounded_dark_pressed.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-hdpi/ic_more_vert_grey600_24dp.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-hdpi/ic_more_vert_grey600_24dp.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-hdpi/one.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/drawable-hdpi/one.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-hdpi/six.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/drawable-hdpi/six.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-hdpi/ic_expand_less_black_24dp.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-hdpi/ic_expand_less_black_24dp.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-hdpi/ic_menu_overflow_card_rounded_dark_normal.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-hdpi/ic_menu_overflow_card_rounded_dark_normal.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-hdpi/five.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/drawable-hdpi/five.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-hdpi/icon.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-hdpi/eneo_1.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/drawable-hdpi/eneo_1.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-hdpi/four.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/drawable-hdpi/four.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-hdpi/eight.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/drawable-hdpi/eight.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-hdpi/two.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/drawable-hdpi/two.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-hdpi/add.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/drawable-hdpi/add.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-hdpi/ic_menu_expand_card_dark_normal.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-hdpi/ic_menu_expand_card_dark_normal.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-hdpi/ic_expand_less_grey600_24dp.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-hdpi/ic_expand_less_grey600_24dp.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-hdpi/eneo.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/drawable-hdpi/eneo.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-hdpi/ic_chevron_right_grey600_24dp.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-hdpi/ic_chevron_right_grey600_24dp.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-hdpi/plus.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/drawable-hdpi/plus.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-hdpi/ic_expand_more_grey600_24dp.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-hdpi/ic_expand_more_grey600_24dp.png"
+    }
+]

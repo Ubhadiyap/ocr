@@ -1,0 +1,60 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"/Users/stephineosoro/Library/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/.externalNativeBuild/cmake/arm7Debug/armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"mixed_sample-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "mixed_sample",
+			"buildCommand" : "/Users/stephineosoro/Library/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/.externalNativeBuild/cmake/arm7Debug/armeabi-v7a --target mixed_sample",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  -target armv7-none-linux-androideabi -gcc-toolchain /Users/stephineosoro/Library/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/stephineosoro/Library/Android/sdk/ndk-bundle/platforms/android-15/arch-arm  -Dmixed_sample_EXPORTS -I/Users/stephineosoro/Downloads/OpenCV-android-sdk/sdk/native/jni/include -isystem /Users/stephineosoro/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/stephineosoro/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include -isystem /Users/stephineosoro/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti  -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/jni/jni_part.cpp",
+					"workingDirectory" : "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/.externalNativeBuild/cmake/arm7Debug/armeabi-v7a"
+				}
+			],
+			"output" : "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/cmake/arm7/debug/obj/armeabi-v7a/libmixed_sample.so",
+			"toolchain" : "7265591263901679876"
+		},
+		"native-lib-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "native-lib",
+			"buildCommand" : "/Users/stephineosoro/Library/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/.externalNativeBuild/cmake/arm7Debug/armeabi-v7a --target native-lib",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  -target armv7-none-linux-androideabi -gcc-toolchain /Users/stephineosoro/Library/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/stephineosoro/Library/Android/sdk/ndk-bundle/platforms/android-15/arch-arm -Dnative_lib_EXPORTS -I/Users/stephineosoro/Downloads/OpenCV-android-sdk/sdk/native/jni/include  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/jni/nativeclass.c",
+					"workingDirectory" : "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/.externalNativeBuild/cmake/arm7Debug/armeabi-v7a"
+				}
+			],
+			"output" : "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/cmake/arm7/debug/obj/armeabi-v7a/libnative-lib.so",
+			"toolchain" : "7265591263901679876"
+		}
+	},
+	"toolchains" : 
+	{
+		"7265591263901679876" : 
+		{
+			"cCompilerExecutable" : "/Users/stephineosoro/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/stephineosoro/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

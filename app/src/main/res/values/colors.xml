@@ -6,5 +6,6 @@
     <color name="black">#000000</color>
     <color name="white">#FFFFFF</color>
     <color name="iron">#CCCCCC</color>
+    <color name="viewfinder_mask">#60000000</color>
 
 </resources>

@@ -1,10 +1,42 @@
 [
     {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-ldpi-v4/ucrop_ic_scale.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.yalantis/ucrop/2.2.1-native/res/drawable-ldpi-v4/ucrop_ic_scale.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-ldpi-v4/ucrop_ic_reset.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.yalantis/ucrop/2.2.1-native/res/drawable-ldpi-v4/ucrop_ic_reset.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-ldpi-v4/ucrop_ic_crop.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.yalantis/ucrop/2.2.1-native/res/drawable-ldpi-v4/ucrop_ic_crop.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-ldpi-v4/ucrop_ic_rotate.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.yalantis/ucrop/2.2.1-native/res/drawable-ldpi-v4/ucrop_ic_rotate.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-ldpi-v4/ucrop_ic_angle.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.yalantis/ucrop/2.2.1-native/res/drawable-ldpi-v4/ucrop_ic_angle.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-ldpi-v4/ucrop_ic_done.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.yalantis/ucrop/2.2.1-native/res/drawable-ldpi-v4/ucrop_ic_done.png"
+    },
+    {
         "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-ldpi-v4/ic_skip_white_24px.png",
         "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/4.0.0/res/drawable-ldpi-v4/ic_skip_white_24px.png"
     },
     {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-ldpi-v4/ucrop_ic_cross.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.yalantis/ucrop/2.2.1-native/res/drawable-ldpi-v4/ucrop_ic_cross.png"
+    },
+    {
         "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-ldpi-v4/common_ic_googleplayservices.png",
         "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-ldpi-v4/ucrop_ic_next.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.yalantis/ucrop/2.2.1-native/res/drawable-ldpi-v4/ucrop_ic_next.png"
     }
 ]

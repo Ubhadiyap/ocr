@@ -1,6 +1,14 @@
 [
     {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-anydpi-v21/ic_file_download.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/generated/res/pngs/arm7/debug/drawable-anydpi-v21/ic_file_download.xml"
+    },
+    {
         "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-anydpi-v21/ic_skip_white_24px.xml",
         "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/4.0.0/res/drawable-anydpi-v21/ic_skip_white_24px.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-anydpi-v21/ic_done.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/generated/res/pngs/arm7/debug/drawable-anydpi-v21/ic_done.xml"
     }
 ]

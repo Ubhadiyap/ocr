@@ -8,8 +8,8 @@ import butterknife.ButterKnife.ViewBinder;
 public class GetLocation$$ViewBinder<T extends com.eneo.ocr.GetLocation> implements ViewBinder<T> {
   @Override public void bind(final Finder finder, final T target, Object source) {
     View view;
-    view = finder.findRequiredView(source, 2131558602, "field '_location'");
-    target._location = finder.castView(view, 2131558602, "field '_location'");
+    view = finder.findRequiredView(source, 2131558610, "field '_location'");
+    target._location = finder.castView(view, 2131558610, "field '_location'");
   }
 
   @Override public void unbind(T target) {

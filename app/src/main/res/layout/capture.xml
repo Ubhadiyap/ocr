@@ -11,9 +11,10 @@
         android:layout_height="wrap_content">
 
         <com.eneo.ocr.CapturePreview
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/cameraView">
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:id="@+id/cameraView"
+            android:layout_gravity="center">
         </com.eneo.ocr.CapturePreview>
 
     </FrameLayout>
@@ -26,8 +27,8 @@
         android:gravity="center">
 
         <ImageView android:id="@+id/myImageView"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
             android:src="@drawable/icon"/>
     </LinearLayout>
 

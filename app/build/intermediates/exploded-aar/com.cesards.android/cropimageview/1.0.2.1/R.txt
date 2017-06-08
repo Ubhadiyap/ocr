@@ -1,0 +1,11 @@
+int attr crop 0x7f010000
+int id bottomLeft 0x7f020000
+int id bottomRight 0x7f020001
+int id centerBottom 0x7f020002
+int id centerLeft 0x7f020003
+int id centerRight 0x7f020004
+int id centerTop 0x7f020005
+int id topLeft 0x7f020006
+int id topRight 0x7f020007
+int[] styleable CropImageView { 0x7f010000 }
+int styleable CropImageView_crop 0

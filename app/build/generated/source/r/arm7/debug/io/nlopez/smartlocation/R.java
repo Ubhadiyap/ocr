@@ -8,34 +8,34 @@ package io.nlopez.smartlocation;
 
 public final class R {
 	public static final class attr {
-		public static final int buttonSize = 0x7f0100fd;
-		public static final int circleCrop = 0x7f0100db;
-		public static final int colorScheme = 0x7f0100fe;
-		public static final int imageAspectRatio = 0x7f0100da;
-		public static final int imageAspectRatioAdjust = 0x7f0100d9;
-		public static final int scopeUris = 0x7f0100ff;
+		public static final int buttonSize = 0x7f010122;
+		public static final int circleCrop = 0x7f010100;
+		public static final int colorScheme = 0x7f010123;
+		public static final int imageAspectRatio = 0x7f0100ff;
+		public static final int imageAspectRatioAdjust = 0x7f0100fe;
+		public static final int scopeUris = 0x7f010124;
 	}
 	public static final class color {
-		public static final int common_google_signin_btn_text_dark = 0x7f0c0083;
-		public static final int common_google_signin_btn_text_dark_default = 0x7f0c002e;
-		public static final int common_google_signin_btn_text_dark_disabled = 0x7f0c002f;
-		public static final int common_google_signin_btn_text_dark_focused = 0x7f0c0030;
-		public static final int common_google_signin_btn_text_dark_pressed = 0x7f0c0031;
-		public static final int common_google_signin_btn_text_light = 0x7f0c0084;
-		public static final int common_google_signin_btn_text_light_default = 0x7f0c0032;
-		public static final int common_google_signin_btn_text_light_disabled = 0x7f0c0033;
-		public static final int common_google_signin_btn_text_light_focused = 0x7f0c0034;
-		public static final int common_google_signin_btn_text_light_pressed = 0x7f0c0035;
-		public static final int common_plus_signin_btn_text_dark = 0x7f0c0085;
-		public static final int common_plus_signin_btn_text_dark_default = 0x7f0c0036;
-		public static final int common_plus_signin_btn_text_dark_disabled = 0x7f0c0037;
-		public static final int common_plus_signin_btn_text_dark_focused = 0x7f0c0038;
-		public static final int common_plus_signin_btn_text_dark_pressed = 0x7f0c0039;
-		public static final int common_plus_signin_btn_text_light = 0x7f0c0086;
-		public static final int common_plus_signin_btn_text_light_default = 0x7f0c003a;
-		public static final int common_plus_signin_btn_text_light_disabled = 0x7f0c003b;
-		public static final int common_plus_signin_btn_text_light_focused = 0x7f0c003c;
-		public static final int common_plus_signin_btn_text_light_pressed = 0x7f0c003d;
+		public static final int common_google_signin_btn_text_dark = 0x7f0c0098;
+		public static final int common_google_signin_btn_text_dark_default = 0x7f0c0030;
+		public static final int common_google_signin_btn_text_dark_disabled = 0x7f0c0031;
+		public static final int common_google_signin_btn_text_dark_focused = 0x7f0c0032;
+		public static final int common_google_signin_btn_text_dark_pressed = 0x7f0c0033;
+		public static final int common_google_signin_btn_text_light = 0x7f0c0099;
+		public static final int common_google_signin_btn_text_light_default = 0x7f0c0034;
+		public static final int common_google_signin_btn_text_light_disabled = 0x7f0c0035;
+		public static final int common_google_signin_btn_text_light_focused = 0x7f0c0036;
+		public static final int common_google_signin_btn_text_light_pressed = 0x7f0c0037;
+		public static final int common_plus_signin_btn_text_dark = 0x7f0c009a;
+		public static final int common_plus_signin_btn_text_dark_default = 0x7f0c0038;
+		public static final int common_plus_signin_btn_text_dark_disabled = 0x7f0c0039;
+		public static final int common_plus_signin_btn_text_dark_focused = 0x7f0c003a;
+		public static final int common_plus_signin_btn_text_dark_pressed = 0x7f0c003b;
+		public static final int common_plus_signin_btn_text_light = 0x7f0c009b;
+		public static final int common_plus_signin_btn_text_light_default = 0x7f0c003c;
+		public static final int common_plus_signin_btn_text_light_disabled = 0x7f0c003d;
+		public static final int common_plus_signin_btn_text_light_focused = 0x7f0c003e;
+		public static final int common_plus_signin_btn_text_light_pressed = 0x7f0c003f;
 	}
 	public static final class dimen {
 	}
@@ -84,16 +84,16 @@ public final class R {
 		public static final int common_plus_signin_btn_text_light_pressed = 0x7f020091;
 	}
 	public static final class id {
-		public static final int adjust_height = 0x7f0d0037;
-		public static final int adjust_width = 0x7f0d0038;
-		public static final int auto = 0x7f0d0041;
-		public static final int dark = 0x7f0d0042;
-		public static final int icon_only = 0x7f0d003e;
-		public static final int light = 0x7f0d0043;
+		public static final int adjust_height = 0x7f0d003b;
+		public static final int adjust_width = 0x7f0d003c;
+		public static final int auto = 0x7f0d0043;
+		public static final int dark = 0x7f0d0044;
+		public static final int icon_only = 0x7f0d0040;
+		public static final int light = 0x7f0d0045;
 		public static final int none = 0x7f0d0010;
 		public static final int normal = 0x7f0d000c;
-		public static final int standard = 0x7f0d003f;
-		public static final int wide = 0x7f0d0040;
+		public static final int standard = 0x7f0d0041;
+		public static final int wide = 0x7f0d0042;
 	}
 	public static final class integer {
 		public static final int gms_version = 0x7f0b0004;
@@ -133,11 +133,11 @@ public final class R {
 		public static final int common_signin_button_text_long = 0x7f060031;
 	}
 	public static final class styleable {
-		public static final int[] LoadingImageView = { 0x7f0100d9, 0x7f0100da, 0x7f0100db };
+		public static final int[] LoadingImageView = { 0x7f0100fe, 0x7f0100ff, 0x7f010100 };
 		public static final int LoadingImageView_circleCrop = 2;
 		public static final int LoadingImageView_imageAspectRatio = 1;
 		public static final int LoadingImageView_imageAspectRatioAdjust = 0;
-		public static final int[] SignInButton = { 0x7f0100fd, 0x7f0100fe, 0x7f0100ff };
+		public static final int[] SignInButton = { 0x7f010122, 0x7f010123, 0x7f010124 };
 		public static final int SignInButton_buttonSize = 0;
 		public static final int SignInButton_colorScheme = 1;
 		public static final int SignInButton_scopeUris = 2;

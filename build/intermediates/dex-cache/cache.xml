@@ -3,21 +3,75 @@
 
     <item
         is-multidex="false"
-        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-support-v4-24.2.1_bd5337259a1e44281d4eec85f3a0296523adc9d0.jar" />
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/internal_impl-25.0.0_d7e9d3d64cd1ee6402d62b3e6f97dcf5ad0387c8.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/stephineosoro/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.2"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/internal_impl-24.2.1_a455973c9f0ca9ebd8b2d757148fb191ecfc18df.jar" />
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/okhttp-3.4.1_638c6f4e531e415a1180d4bbe992a94d4e00c5dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/internal_impl-25.0.0_904b9a70b1d5a40d2fc64ddef35ae8ee6f73878c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephineosoro/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/support-annotations-25.0.0_f54ef6013343129497c1cc6e0f47e89d89821528.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-support-compat-25.0.0_be52da74074ddf487b4c98ce657f42a3c32a8e38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephineosoro/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha8/constraint-layout-solver-1.0.0-alpha8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="80c371a4fd5e1b77f0e3a25b171356878543ffdd">
+        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/constraint-layout-solver-1.0.0-alpha8_d662b6c212e149d06d6a59de41c51fc174acf2f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-support-media-compat-25.0.0_2453a256d50f29fe73b21f9e16d25a16b4af4bf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/internal_impl-25.0.0_fc06fa5b3d66682e9b347e0b73532aca9c7f2dce.jar" />
     </item>
     <item
         is-multidex="false"
@@ -57,6 +111,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-support-core-utils-25.0.0_6608f5c41b79acc4b1582c54852a38716689e527.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -75,6 +138,33 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-appcompat-v7-25.0.0_a14cb8191a4c9e35e26cba23fc1c4f8854e53d9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-support-v4-25.0.0_ed0a42602c531e75a71e018b3eba011af0f7375a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephineosoro/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/okio-1.9.0_4ac914d85b11e25835d400f9264f5f7906ad2724.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -84,147 +174,39 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/internal_impl-25.0.0_fd3335425461d8bb1c91b94a7dc3ff0489abaa98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.soundcloud.android/android-crop/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="11a65cf2b30c192b38a881d626fa771a78a2293d">
+        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/com.soundcloud.android-android-crop-1.0.1_eb510c4ca472bec58024addc6ba578b56d69568f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-support-vector-drawable-25.0.0_aed1727d6f49deeded475ae4d27709d4f6e37d1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.2"
         sha1="379471b2bd17d9737c050345c08e8c7d16589784">
         <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-design-23.1.1_23be3f33377133cfba699d2ccb07696bcfc7bbc1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-appcompat-v7-24.2.1_d3202414802a65cc6d733c06c6e25752d6b786a4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/internal_impl-24.2.1_4f5ab40c5da13fb0137e2cc46bfaa5d7c1e0daa9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/stephineosoro/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/support-annotations-24.2.1_f394ced07f6d8299043cad55b15eea819cdfb3e9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-recyclerview-v7-23.1.1_04125b85912f4a01172ac9cdaec67a78831df709.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.akexorcist/bluetoothspp/1.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="a77138ac5211331e9579024c12bedabe3c835260">
-        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/com.akexorcist-bluetoothspp-1.0.0_33736be2c37aa3d22c32b1ed6ec912dfe3bf1b5a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-support-compat-24.2.1_9e557412bff8db878574fc23ab21aa89117210af.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="30489a97b06cc3945bdbcc1770089af9e3b3b64d">
-        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/com.google.android.gms-play-services-base-9.2.0_39689a6900163147eb08707af50772594d5b7569.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-animated-vector-drawable-24.2.1_3dd0e972e1bec0366e7c80fb2b7d2bb48df10b02.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.developer-shivam/Diagonalify/1.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="acc71ccbaecd62b6540ef59fa6b031d6d928eeb6">
-        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/com.github.developer-shivam-Diagonalify-1.1_3876887bca097817e9049ebbb8b9ce2a854bdf58.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/internal_impl-24.2.1_e5aac709a9aa8d2a88170db3a5babb72e5eb9465.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-support-media-compat-24.2.1_e148b97c60c8d84542e385be61b17b3bf86d2271.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/internal_impl-24.2.1_4cd179def4fe74a2fe1ec08f46ed94e957e6fe3d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-support-core-ui-24.2.1_f43f8eb600b7425fa9c8aaee6331409fe10f5115.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-support-core-utils-24.2.1_fe731e8cf0f989f7ef2a59e164b19a5ddd71bdf7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-support-fragment-24.2.1_19cf6da7c5065ffd537964bf20d14c97b71b514b.jar" />
     </item>
     <item
         is-multidex="false"
@@ -246,12 +228,66 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.2"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-support-vector-drawable-24.2.1_4ab7ef60dca121df5a51ce9a92b069177b340edc.jar" />
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-support-fragment-25.0.0_4fc3196f2563d42e851531ac5403a0f0f9ba8654.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-animated-vector-drawable-25.0.0_b47e4bac920661c2182239bed9cbbeebaaa69f17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephineosoro/.gradle/caches/modules-2/files-2.1/org.java-websocket/Java-WebSocket/1.3.0/db2658f013fb163de4a99274c2eb9e17efe535d2/Java-WebSocket-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="db2658f013fb163de4a99274c2eb9e17efe535d2">
+        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/Java-WebSocket-1.3.0_c1d93d0da3b7f17257c0acf32b35b755799553d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/internal_impl-25.0.0_4721e28508d9254d8e9daf2793d1fbed040e9b67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-recyclerview-v7-23.1.1_04125b85912f4a01172ac9cdaec67a78831df709.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.akexorcist/bluetoothspp/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a77138ac5211331e9579024c12bedabe3c835260">
+        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/com.akexorcist-bluetoothspp-1.0.0_33736be2c37aa3d22c32b1ed6ec912dfe3bf1b5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="30489a97b06cc3945bdbcc1770089af9e3b3b64d">
+        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/com.google.android.gms-play-services-base-9.2.0_39689a6900163147eb08707af50772594d5b7569.jar" />
     </item>
     <item
         is-multidex="false"
@@ -264,12 +300,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.yalantis/ucrop/2.2.1-native/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/internal_impl-24.2.1_97ccb4e8dbf86386ec9e0a20cc4bf1d73629672a.jar" />
+        sha1="2e492787f157c13839c02e0b7293871dbaed9911">
+        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/com.github.yalantis-ucrop-2.2.1-native_b339c500c141fa4cdadb008ff1e7257c596c56dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-support-core-ui-25.0.0_dcc1d9f8f046e2a3f21854e3f8f95ac986082e0e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -279,6 +324,24 @@
         revision="23.0.2"
         sha1="3c8fcebabb73df25937704f5566bf6c388ea941d">
         <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/com.google.android.gms-play-services-vision-9.2.0_24f78b1a078938376c2b2b746cbdafa2d5cffc90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.developer-shivam/Diagonalify/1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="acc71ccbaecd62b6540ef59fa6b031d6d928eeb6">
+        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/com.github.developer-shivam-Diagonalify-1.1_3876887bca097817e9049ebbb8b9ce2a854bdf58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha8/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0e753ea8d0a2dea270da7d96a7d6e9d2e9c10f94">
+        <dex dex="/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/arm7/debug/com.android.support.constraint-constraint-layout-1.0.0-alpha8_ce99efb537e4fe2fb219cf2db14579b0035ee5fc.jar" />
     </item>
     <item
         is-multidex="false"

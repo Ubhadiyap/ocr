@@ -98,6 +98,7 @@ dependencies {
     compile 'com.android.support:appcompat-v7:23.1.1'
     compile 'com.google.android.gms:play-services-vision:9.2.0'
     compile 'com.android.support:design:23.1.1'
+    compile 'org.java-websocket:Java-WebSocket:1.3.0'
     //    compile 'com.google.android.gms:play-services-vision:9.0.0+'
     /*compile 'org.osmdroid:osmdroid-android:5.2@aar'
             compile 'org.osmdroid:osmdroid-third-party:5.0.1@aar'*/
@@ -111,6 +112,10 @@ dependencies {
     compile 'io.nlopez.smartlocation:library:3.2.1'
     compile 'com.akexorcist:bluetoothspp:1.0.0'
     compile 'de.hdodenhof:circleimageview:2.1.0'
+//    compile 'com.cesards.android:cropimageview:1.0.2.1'
+    compile 'com.soundcloud.android:android-crop:1.0.1@aar'
+    compile 'com.github.yalantis:ucrop:2.2.1-native'
     compile 'com.github.developer-shivam:Diagonalify:1.1'
     compile project(':openCVLibrary310')
+    compile 'com.android.support.constraint:constraint-layout:1.0.0-alpha8'
 }

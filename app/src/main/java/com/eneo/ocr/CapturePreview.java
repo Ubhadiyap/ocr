@@ -8,6 +8,8 @@ import android.util.AttributeSet;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 
+import java.lang.reflect.Method;
+
 /**
  * Created by stephineosoro on 14/11/2016.
  */
@@ -40,6 +42,10 @@ public class CapturePreview extends SurfaceView implements SurfaceHolder.Callbac
         try {
             mCamera = Camera.open();
             mCamera.setPreviewDisplay(holder);
+            setDisplayOrientation(mCamera, 90);
+            /*Camera.Parameters parameters = mCamera.getParameters();
+            parameters.set("orientation", "portrait");
+            mCamera.setParameters(parameters);*/
         } catch (Exception e) {
             e.printStackTrace();
         }
@@ -62,5 +68,18 @@ public class CapturePreview extends SurfaceView implements SurfaceHolder.Callbac
             }
         };
         mCamera.takePicture(null, null, mPictureCallback);
+    }
+
+    protected void setDisplayOrientation(Camera camera, int angle){
+        Method downPolymorphic;
+        try
+        {
+            downPolymorphic = camera.getClass().getMethod("setDisplayOrientation", new Class[] { int.class });
+            if (downPolymorphic != null)
+                downPolymorphic.invoke(camera, new Object[] { angle });
+        }
+        catch (Exception e1)
+        {
+        }
     }
 }

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <dimen name="notification_right_side_padding_top">4dp</dimen>
     <string name="card_font_fontFamily_expand">sans-serif-condensed</string>
     <string name="card_font_fontFamily_header">sans-serif-condensed</string>
     <string name="card_font_fontFamily_main_content">sans-serif</string>

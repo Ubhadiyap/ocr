@@ -6,12 +6,12 @@
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
-                    "startOffset": 105,
+                    "startOffset": 150,
                     "endColumn": 104,
-                    "endOffset": 205
+                    "endOffset": 250
                 },
                 "from": {
-                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-tr/values-tr.xml",
+                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-tr/values-tr.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -25,12 +25,12 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 210,
+                    "startOffset": 255,
                     "endColumn": 107,
-                    "endOffset": 313
+                    "endOffset": 358
                 },
                 "from": {
-                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-tr/values-tr.xml",
+                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-tr/values-tr.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -44,12 +44,12 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 318,
+                    "startOffset": 363,
                     "endColumn": 122,
-                    "endOffset": 436
+                    "endOffset": 481
                 },
                 "from": {
-                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-tr/values-tr.xml",
+                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-tr/values-tr.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -63,12 +63,12 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 441,
+                    "startOffset": 486,
                     "endColumn": 98,
-                    "endOffset": 535
+                    "endOffset": 580
                 },
                 "from": {
-                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-tr/values-tr.xml",
+                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-tr/values-tr.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -82,12 +82,12 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 540,
+                    "startOffset": 585,
                     "endColumn": 111,
-                    "endOffset": 647
+                    "endOffset": 692
                 },
                 "from": {
-                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-tr/values-tr.xml",
+                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-tr/values-tr.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -101,12 +101,12 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 652,
+                    "startOffset": 697,
                     "endColumn": 84,
-                    "endOffset": 732
+                    "endOffset": 777
                 },
                 "from": {
-                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-tr/values-tr.xml",
+                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-tr/values-tr.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -120,12 +120,12 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 737,
+                    "startOffset": 782,
                     "endColumn": 105,
-                    "endOffset": 838
+                    "endOffset": 883
                 },
                 "from": {
-                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-tr/values-tr.xml",
+                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-tr/values-tr.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -139,12 +139,12 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 843,
+                    "startOffset": 888,
                     "endColumn": 119,
-                    "endOffset": 958
+                    "endOffset": 1003
                 },
                 "from": {
-                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-tr/values-tr.xml",
+                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-tr/values-tr.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -158,12 +158,12 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 963,
+                    "startOffset": 1008,
                     "endColumn": 78,
-                    "endOffset": 1037
+                    "endOffset": 1082
                 },
                 "from": {
-                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-tr/values-tr.xml",
+                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-tr/values-tr.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -177,12 +177,12 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1042,
+                    "startOffset": 1087,
                     "endColumn": 75,
-                    "endOffset": 1113
+                    "endOffset": 1158
                 },
                 "from": {
-                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-tr/values-tr.xml",
+                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-tr/values-tr.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -196,12 +196,12 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1118,
+                    "startOffset": 1163,
                     "endColumn": 78,
-                    "endOffset": 1192
+                    "endOffset": 1237
                 },
                 "from": {
-                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-tr/values-tr.xml",
+                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-tr/values-tr.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -215,12 +215,12 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1197,
+                    "startOffset": 1242,
                     "endColumn": 106,
-                    "endOffset": 1299
+                    "endOffset": 1344
                 },
                 "from": {
-                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-tr/values-tr.xml",
+                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-tr/values-tr.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -234,12 +234,12 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1304,
+                    "startOffset": 1349,
                     "endColumn": 104,
-                    "endOffset": 1404
+                    "endOffset": 1449
                 },
                 "from": {
-                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-tr/values-tr.xml",
+                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-tr/values-tr.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -253,12 +253,12 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1409,
+                    "startOffset": 1454,
                     "endColumn": 95,
-                    "endOffset": 1500
+                    "endOffset": 1545
                 },
                 "from": {
-                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-tr/values-tr.xml",
+                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-tr/values-tr.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -272,12 +272,12 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1505,
+                    "startOffset": 1550,
                     "endColumn": 106,
-                    "endOffset": 1607
+                    "endOffset": 1652
                 },
                 "from": {
-                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-tr/values-tr.xml",
+                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-tr/values-tr.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -291,12 +291,12 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1612,
+                    "startOffset": 1657,
                     "endColumn": 101,
-                    "endOffset": 1709
+                    "endOffset": 1754
                 },
                 "from": {
-                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-tr/values-tr.xml",
+                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-tr/values-tr.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -310,12 +310,12 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1714,
+                    "startOffset": 1759,
                     "endColumn": 107,
-                    "endOffset": 1817
+                    "endOffset": 1862
                 },
                 "from": {
-                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-tr/values-tr.xml",
+                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-tr/values-tr.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -329,12 +329,12 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1822,
+                    "startOffset": 1867,
                     "endColumn": 118,
-                    "endOffset": 1936
+                    "endOffset": 1981
                 },
                 "from": {
-                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-tr/values-tr.xml",
+                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-tr/values-tr.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -348,12 +348,12 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1941,
+                    "startOffset": 1986,
                     "endColumn": 97,
-                    "endOffset": 2034
+                    "endOffset": 2079
                 },
                 "from": {
-                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-tr/values-tr.xml",
+                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-tr/values-tr.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -367,9 +367,9 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 2039,
+                    "startOffset": 2084,
                     "endColumn": 270,
-                    "endOffset": 2305
+                    "endOffset": 2350
                 },
                 "from": {
                     "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/values-tr/values.xml",
@@ -386,9 +386,9 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 2310,
+                    "startOffset": 2355,
                     "endColumn": 136,
-                    "endOffset": 2442
+                    "endOffset": 2487
                 },
                 "from": {
                     "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/values-tr/values.xml",
@@ -405,9 +405,9 @@
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 2447,
+                    "startOffset": 2492,
                     "endColumn": 186,
-                    "endOffset": 2629
+                    "endOffset": 2674
                 },
                 "from": {
                     "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/values-tr/values.xml",
@@ -424,9 +424,9 @@
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 2634,
+                    "startOffset": 2679,
                     "endColumn": 137,
-                    "endOffset": 2767
+                    "endOffset": 2812
                 },
                 "from": {
                     "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/values-tr/values.xml",
@@ -443,9 +443,9 @@
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 2772,
+                    "startOffset": 2817,
                     "endColumn": 131,
-                    "endOffset": 2899
+                    "endOffset": 2944
                 },
                 "from": {
                     "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/values-tr/values.xml",
@@ -462,9 +462,9 @@
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 2904,
+                    "startOffset": 2949,
                     "endColumn": 213,
-                    "endOffset": 3113
+                    "endOffset": 3158
                 },
                 "from": {
                     "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/values-tr/values.xml",
@@ -481,9 +481,9 @@
                 "to": {
                     "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 3118,
+                    "startOffset": 3163,
                     "endColumn": 213,
-                    "endOffset": 3327
+                    "endOffset": 3372
                 },
                 "from": {
                     "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/values-tr/values.xml",
@@ -500,9 +500,9 @@
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 3332,
+                    "startOffset": 3377,
                     "endColumn": 131,
-                    "endOffset": 3459
+                    "endOffset": 3504
                 },
                 "from": {
                     "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/values-tr/values.xml",
@@ -519,9 +519,9 @@
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 3464,
+                    "startOffset": 3509,
                     "endColumn": 178,
-                    "endOffset": 3638
+                    "endOffset": 3683
                 },
                 "from": {
                     "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/values-tr/values.xml",
@@ -538,9 +538,9 @@
                 "to": {
                     "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 3643,
+                    "startOffset": 3688,
                     "endColumn": 122,
-                    "endOffset": 3761
+                    "endOffset": 3806
                 },
                 "from": {
                     "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/values-tr/values.xml",
@@ -557,9 +557,9 @@
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 3766,
+                    "startOffset": 3811,
                     "endColumn": 175,
-                    "endOffset": 3937
+                    "endOffset": 3982
                 },
                 "from": {
                     "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/values-tr/values.xml",
@@ -576,9 +576,9 @@
                 "to": {
                     "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 3942,
+                    "startOffset": 3987,
                     "endColumn": 115,
-                    "endOffset": 4053
+                    "endOffset": 4098
                 },
                 "from": {
                     "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/values-tr/values.xml",
@@ -595,9 +595,9 @@
                 "to": {
                     "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 4058,
+                    "startOffset": 4103,
                     "endColumn": 134,
-                    "endOffset": 4188
+                    "endOffset": 4233
                 },
                 "from": {
                     "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/values-tr/values.xml",
@@ -614,9 +614,9 @@
                 "to": {
                     "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 4193,
+                    "startOffset": 4238,
                     "endColumn": 198,
-                    "endOffset": 4387
+                    "endOffset": 4432
                 },
                 "from": {
                     "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/values-tr/values.xml",
@@ -633,9 +633,9 @@
                 "to": {
                     "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 4392,
+                    "startOffset": 4437,
                     "endColumn": 157,
-                    "endOffset": 4545
+                    "endOffset": 4590
                 },
                 "from": {
                     "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/values-tr/values.xml",
@@ -652,9 +652,9 @@
                 "to": {
                     "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 4550,
+                    "startOffset": 4595,
                     "endColumn": 164,
-                    "endOffset": 4710
+                    "endOffset": 4755
                 },
                 "from": {
                     "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/values-tr/values.xml",
@@ -671,9 +671,9 @@
                 "to": {
                     "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 4715,
+                    "startOffset": 4760,
                     "endColumn": 125,
-                    "endOffset": 4836
+                    "endOffset": 4881
                 },
                 "from": {
                     "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/values-tr/values.xml",
@@ -690,9 +690,9 @@
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 4841,
+                    "startOffset": 4886,
                     "endColumn": 185,
-                    "endOffset": 5022
+                    "endOffset": 5067
                 },
                 "from": {
                     "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/values-tr/values.xml",
@@ -709,9 +709,9 @@
                 "to": {
                     "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 5027,
+                    "startOffset": 5072,
                     "endColumn": 123,
-                    "endOffset": 5146
+                    "endOffset": 5191
                 },
                 "from": {
                     "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/values-tr/values.xml",
@@ -728,9 +728,9 @@
                 "to": {
                     "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 5151,
+                    "startOffset": 5196,
                     "endColumn": 251,
-                    "endOffset": 5398
+                    "endOffset": 5443
                 },
                 "from": {
                     "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.0/res/values-tr/values.xml",
@@ -747,9 +747,9 @@
                 "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 5403,
+                    "startOffset": 5448,
                     "endColumn": 254,
-                    "endOffset": 5653
+                    "endOffset": 5698
                 },
                 "from": {
                     "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/values-tr/values.xml",
@@ -766,9 +766,9 @@
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 5658,
+                    "startOffset": 5703,
                     "endColumn": 125,
-                    "endOffset": 5779
+                    "endOffset": 5824
                 },
                 "from": {
                     "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/values-tr/values.xml",
@@ -785,9 +785,9 @@
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 5784,
+                    "startOffset": 5829,
                     "endColumn": 108,
-                    "endOffset": 5888
+                    "endOffset": 5933
                 },
                 "from": {
                     "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/values-tr/values.xml",
@@ -804,9 +804,9 @@
                 "to": {
                     "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 5893,
+                    "startOffset": 5938,
                     "endColumn": 187,
-                    "endOffset": 6076
+                    "endOffset": 6121
                 },
                 "from": {
                     "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/values-tr/values.xml",
@@ -823,9 +823,9 @@
                 "to": {
                     "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 6081,
+                    "startOffset": 6126,
                     "endColumn": 135,
-                    "endOffset": 6212
+                    "endOffset": 6257
                 },
                 "from": {
                     "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/values-tr/values.xml",
@@ -842,9 +842,9 @@
                 "to": {
                     "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 6217,
+                    "startOffset": 6262,
                     "endColumn": 203,
-                    "endOffset": 6416
+                    "endOffset": 6461
                 },
                 "from": {
                     "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/values-tr/values.xml",
@@ -861,9 +861,9 @@
                 "to": {
                     "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 6421,
+                    "startOffset": 6466,
                     "endColumn": 137,
-                    "endOffset": 6554
+                    "endOffset": 6599
                 },
                 "from": {
                     "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/values-tr/values.xml",
@@ -880,9 +880,9 @@
                 "to": {
                     "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 6559,
+                    "startOffset": 6604,
                     "endColumn": 196,
-                    "endOffset": 6751
+                    "endOffset": 6796
                 },
                 "from": {
                     "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/values-tr/values.xml",
@@ -899,9 +899,9 @@
                 "to": {
                     "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 6756,
+                    "startOffset": 6801,
                     "endColumn": 91,
-                    "endOffset": 6843
+                    "endOffset": 6888
                 },
                 "from": {
                     "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/values-tr/values.xml",
@@ -918,9 +918,9 @@
                 "to": {
                     "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 6848,
+                    "startOffset": 6893,
                     "endColumn": 93,
-                    "endOffset": 6937
+                    "endOffset": 6982
                 },
                 "from": {
                     "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/values-tr/values.xml",
@@ -937,9 +937,9 @@
                 "to": {
                     "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 6942,
+                    "startOffset": 6987,
                     "endColumn": 108,
-                    "endOffset": 7046
+                    "endOffset": 7091
                 },
                 "from": {
                     "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/res/values-tr/values.xml",
@@ -956,12 +956,107 @@
                 "to": {
                     "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 7051,
-                    "endColumn": 78,
-                    "endOffset": 7125
+                    "startOffset": 7096,
+                    "endColumn": 70,
+                    "endOffset": 7162
                 },
                 "from": {
-                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-tr/values-tr.xml",
+                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.soundcloud.android/android-crop/1.0.1/res/values-tr/values-tr.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 215,
+                        "endColumn": 70,
+                        "endOffset": 281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 7167,
+                    "endColumn": 44,
+                    "endOffset": 7207
+                },
+                "from": {
+                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.soundcloud.android/android-crop/1.0.1/res/values-tr/values-tr.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endColumn": 44,
+                        "endOffset": 326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 7212,
+                    "endColumn": 64,
+                    "endOffset": 7272
+                },
+                "from": {
+                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.soundcloud.android/android-crop/1.0.1/res/values-tr/values-tr.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 64,
+                        "endOffset": 391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 7277,
+                    "endColumn": 63,
+                    "endOffset": 7336
+                },
+                "from": {
+                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.soundcloud.android/android-crop/1.0.1/res/values-tr/values-tr.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 396,
+                        "endColumn": 63,
+                        "endOffset": 455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 7341,
+                    "endColumn": 55,
+                    "endOffset": 7392
+                },
+                "from": {
+                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.soundcloud.android/android-crop/1.0.1/res/values-tr/values-tr.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 460,
+                        "endColumn": 55,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 7397,
+                    "endColumn": 78,
+                    "endOffset": 7471
+                },
+                "from": {
+                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-tr/values-tr.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -973,14 +1068,14 @@
             },
             {
                 "to": {
-                    "startLine": 53,
+                    "startLine": 58,
                     "startColumn": 4,
-                    "startOffset": 7130,
+                    "startOffset": 7476,
                     "endColumn": 100,
-                    "endOffset": 7226
+                    "endOffset": 7572
                 },
                 "from": {
-                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-tr/values-tr.xml",
+                    "file": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-tr/values-tr.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,

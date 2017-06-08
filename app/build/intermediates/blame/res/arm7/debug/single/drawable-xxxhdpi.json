@@ -12,6 +12,10 @@
         "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-xxxhdpi/ic_expand_less_black_24dp.png"
     },
     {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-xxxhdpi/ic_file_download.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/generated/res/pngs/arm7/debug/drawable-xxxhdpi/ic_file_download.png"
+    },
+    {
         "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-xxxhdpi/ic_chevron_right_grey600_24dp.png",
         "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-xxxhdpi/ic_chevron_right_grey600_24dp.png"
     },
@@ -22,6 +26,10 @@
     {
         "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-xxxhdpi/ic_expand_more_black_24dp.png",
         "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.gabrielemariotti.cards/cardslib-core/2.1.0/res/drawable-xxxhdpi/ic_expand_more_black_24dp.png"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-xxxhdpi/ic_done.png",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/generated/res/pngs/arm7/debug/drawable-xxxhdpi/ic_done.png"
     },
     {
         "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/drawable-xxxhdpi/ic_expand_more_grey600_24dp.png",

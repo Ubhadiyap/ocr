@@ -4,12 +4,24 @@
         "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/menu/contextmenu.xml"
     },
     {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/menu/ucrop_menu_activity.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/exploded-aar/com.github.yalantis/ucrop/2.2.1-native/res/menu/ucrop_menu_activity.xml"
+    },
+    {
         "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/menu/activity_home_page_drawer.xml",
         "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/menu/activity_home_page_drawer.xml"
     },
     {
         "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/menu/home_page.xml",
         "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/menu/home_page.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/menu/activity_main.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/menu/activity_main.xml"
+    },
+    {
+        "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/menu/menu_result.xml",
+        "source": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/src/main/res/menu/menu_result.xml"
     },
     {
         "merged": "/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/arm7/debug/menu/new_homepage_drawer.xml",

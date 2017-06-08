@@ -25,4 +25,14 @@
     <string name="title_activity_bluetooth_client">BluetoothClient</string>
     <string name="title_activity_open_cv">OpenCVActivity</string>
     <string name="title_activity_start_camera">StartCamera</string>
+    <string name="title_activity_result">ResultActivity</string>
+
+    <string name="notification_image_saved">Image saved</string>
+    <string name="notification_image_saved_click_to_preview">Image saved. Click to preview.</string>
+    <string name="permission_write_storage_rationale">Storage write permission is needed to save the image.</string>
+    <string name="format_crop_result_d_d">Crop Result (%1$dx%2$d)</string>
+    <string name="file_provider_authorities">com.yalantis.ucrop.provider</string>
+    <string name="permission_title_rationale">Permission needed</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_ok">OK</string>
 </resources>

@@ -54,7 +54,8 @@
   /Users/stephineosoro/Downloads/OpenCV-android-sdk/sdk/native/jni/include/opencv2/videoio.hpp \
   /Users/stephineosoro/Downloads/OpenCV-android-sdk/sdk/native/jni/include/opencv2/highgui/highgui_c.h \
   /Users/stephineosoro/Downloads/OpenCV-android-sdk/sdk/native/jni/include/opencv2/imgcodecs/imgcodecs_c.h \
-  /Users/stephineosoro/Downloads/OpenCV-android-sdk/sdk/native/jni/include/opencv2/videoio/videoio_c.h
+  /Users/stephineosoro/Downloads/OpenCV-android-sdk/sdk/native/jni/include/opencv2/videoio/videoio_c.h \
+  /Users/stephineosoro/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/fstream
 
 /Users/stephineosoro/Downloads/OpenCV-android-sdk/sdk/native/jni/include/opencv2/core/core.hpp:
 
@@ -165,3 +166,5 @@
 /Users/stephineosoro/Downloads/OpenCV-android-sdk/sdk/native/jni/include/opencv2/imgcodecs/imgcodecs_c.h:
 
 /Users/stephineosoro/Downloads/OpenCV-android-sdk/sdk/native/jni/include/opencv2/videoio/videoio_c.h:
+
+/Users/stephineosoro/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/fstream:

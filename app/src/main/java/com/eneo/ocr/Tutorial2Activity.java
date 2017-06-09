@@ -296,6 +296,7 @@ public class Tutorial2Activity extends Activity implements CvCameraViewListener2
     public native void Process(long image, long processed);
 
     public static void find(byte[] square){
+        Mat mat2 = new Mat();
         Mat mat = Imgcodecs.imdecode(new MatOfByte(square), Imgcodecs.CV_LOAD_IMAGE_UNCHANGED);
         Detect(mat.getNativeObjAddr());
     }

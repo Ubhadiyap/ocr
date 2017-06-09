@@ -1,4 +1,4 @@
-#Mon Jun 05 06:27:20 EAT 2017
+#Fri Jun 09 06:24:48 EAT 2017
 base.0=/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/transforms/dex/arm7/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/Users/stephineosoro/AndroidStudioProjects/ocr-reader/app/build/intermediates/transforms/dex/arm7/debug/folders/1000/1f/main/classes.dex

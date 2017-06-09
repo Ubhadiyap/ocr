@@ -314,6 +314,8 @@ Java_com_eneo_ocr_Tutorial2Activity_Detect(JNIEnv *env, jobject instance, jlong 
 
     if (fsClassifications.isOpened() == false) {
 //        TODO Log failure
+        __android_log_print(ANDROID_LOG_ERROR, "failed to open classifications:", "%s", "");
+
         /*std::cout << "error, unable to open training classifications file, exiting program\n\n";
         return (0);*/
     }
@@ -329,6 +331,8 @@ Java_com_eneo_ocr_Tutorial2Activity_Detect(JNIEnv *env, jobject instance, jlong 
 
     if (fsTrainingImages.isOpened() == false) {
         //        TODO Log failure
+        __android_log_print(ANDROID_LOG_ERROR, "failed to open images:", "%s", "");
+
 
         /* std::cout << "error, unable to open training images file, exiting program\n\n";
          return(0);*/
@@ -348,9 +352,12 @@ Java_com_eneo_ocr_Tutorial2Activity_Detect(JNIEnv *env, jobject instance, jlong 
 
     if (matTestingNumbers.empty()) {
         //        TODO Log failure
+        __android_log_print(ANDROID_LOG_ERROR, "failed to open image file passed:", "%s", "");
+
 /*
 
         std::cout << "error: image not read from file\n\n";
+
 */
     }
 
@@ -429,6 +436,8 @@ Java_com_eneo_ocr_Tutorial2Activity_Detect(JNIEnv *env, jobject instance, jlong 
     }
 
     //        TODO Log success and result
+    __android_log_print(ANDROID_LOG_ERROR, "Number read is:", "%s", strFinalString.c_str());
+
 
     /* std::cout << "\n\n" << "Numbers read = " << strFinalString << "\n\n";
 

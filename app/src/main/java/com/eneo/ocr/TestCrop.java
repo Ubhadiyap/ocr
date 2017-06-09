@@ -86,6 +86,10 @@ import com.yalantis.ucrop.UCropActivity;
 import android.support.annotation.NonNull;
 
 
+import org.opencv.android.BaseLoaderCallback;
+import org.opencv.android.LoaderCallbackInterface;
+import org.opencv.android.OpenCVLoader;
+
 import static com.eneo.ocr.BaseActivity.REQUEST_STORAGE_WRITE_ACCESS_PERMISSION;
 
 public class TestCrop extends Activity {
@@ -126,6 +130,32 @@ public class TestCrop extends Activity {
     CameraPermissionsListener listener;
     private static final int REQUEST_PERMISSIONS_CAMERA = 1;
 
+
+    private BaseLoaderCallback mLoaderCallback = new BaseLoaderCallback(this) {
+        @Override
+        public void onManagerConnected(int status) {
+            switch (status) {
+                case LoaderCallbackInterface.SUCCESS: {
+                    Log.i(TAG, "OpenCV loaded successfully");
+
+                    // Load native library after(!) OpenCV initialization
+                    System.loadLibrary("mixed_sample");
+
+//                    mOpenCvCameraView.enableView();
+                }
+                break;
+                default: {
+                    super.onManagerConnected(status);
+                }
+                break;
+            }
+        }
+    };
+
+    public TestCrop() {
+        Log.i(TAG, "Instantiated new " + this.getClass());
+    }
+
     @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -135,6 +165,14 @@ public class TestCrop extends Activity {
         resultView = (ImageView) findViewById(R.id.result_image);
         resultView.setImageDrawable(null);
         ctx = this;
+
+        if (!OpenCVLoader.initDebug()) {
+            Log.e(TAG, "Internal OpenCV library not found. Using OpenCV Manager for initialization");
+            OpenCVLoader.initAsync(OpenCVLoader.OPENCV_VERSION_3_1_0, this, mLoaderCallback);
+        } else {
+            Log.e(TAG, "OpenCV library found inside package. Using it!");
+            mLoaderCallback.onManagerConnected(LoaderCallbackInterface.SUCCESS);
+        }
 //        Crop.pickImage(this);
 //        TakePictureIntent();
         Box box = new Box(this);
@@ -1000,6 +1038,13 @@ public class TestCrop extends Activity {
         } else {
             textureView.setSurfaceTextureListener(textureListener);
         }
+        if (!OpenCVLoader.initDebug()) {
+            Log.e(TAG, "Internal OpenCV library not found. Using OpenCV Manager for initialization");
+            OpenCVLoader.initAsync(OpenCVLoader.OPENCV_VERSION_3_1_0, this, mLoaderCallback);
+        } else {
+            Log.e(TAG, "OpenCV library found inside package. Using it!");
+            mLoaderCallback.onManagerConnected(LoaderCallbackInterface.SUCCESS);
+        }
     }
 
     @Override
@@ -1119,6 +1164,9 @@ public class TestCrop extends Activity {
             listener.onCameraPermissionsGranted(cameraManager);
         }
     }
+
+    public static native void Detect(long mat);
+
 
 
 }
